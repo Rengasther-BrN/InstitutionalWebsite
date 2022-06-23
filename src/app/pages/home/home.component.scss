@@ -1,0 +1,36 @@
+* {
+    margin: 10px 50px;
+}
+.section-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.area-title h3 {
+    font-weight: normal;    
+}
+
+.area-title h1 {
+    font-size: 30px;
+    line-height: 50px;    
+}
+
+.area-title a {
+    display: inline-block;
+    background-color: #1a7993;
+    padding: 15px 60px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.area-title a:hover {
+    cursor: pointer;
+    background-color:#0a566b ;
+}
+
+.image1 img{
+    width: 350px;
+    height: auto;
+}
+
